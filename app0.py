@@ -1,3 +1,5 @@
+# The first file without speech to speech functionality
+
 # Adventure Game
 import os
 os.environ['SDL_VIDEODRIVER'] = 'cocoa'  # Use native macOS window system
